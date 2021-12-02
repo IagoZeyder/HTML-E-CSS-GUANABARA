@@ -1,8 +1,21 @@
+*{
+    overflow: hidden;
+
+}
 body{
-    height: 96vh;
-    background-image: url('imagens1/wallpaper003.jpg');
-    background-position: center;
-    background-size: 100%;
-    font-size: 50px;
+    height: 98.5vh;
+    background-color: black;
+    background-image: url(imagens1/wallpaper002.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; /*Largura e altura reponsivo*/
+}
+main{
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    margin: auto; /*alinha no meio*/
+    border: 2px solid black;
+    border-radius: 20px;
 
 }
