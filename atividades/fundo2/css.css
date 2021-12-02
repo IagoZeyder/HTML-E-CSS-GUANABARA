@@ -1,0 +1,6 @@
+body{
+    background-image: url('img/icon.png'); /*  [ expessura/tamanho  ], [tipo de borda   ], [ cor da borda  ]*/
+    background-size: 100px  100px; /*Tamnho que vai ser repetido no background-image*/
+    background-repeat:no-repeat; /* repetir imagens*/
+
+}
